@@ -1,2 +1,1 @@
-# lyf-ai
-hello world!
+My ai
